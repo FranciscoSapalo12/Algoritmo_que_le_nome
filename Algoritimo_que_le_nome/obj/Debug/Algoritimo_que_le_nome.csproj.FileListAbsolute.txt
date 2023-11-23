@@ -1,0 +1,7 @@
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\bin\Debug\Algoritimo_que_le_nome.exe.config
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\bin\Debug\Algoritimo_que_le_nome.exe
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\bin\Debug\Algoritimo_que_le_nome.pdb
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\obj\Debug\Algoritimo_que_le_nome.csproj.AssemblyReference.cache
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\obj\Debug\Algoritimo_que_le_nome.csproj.CoreCompileInputs.cache
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\obj\Debug\Algoritimo_que_le_nome.exe
+C:\Aula1c#\Algoritimo_que_le_nome\Algoritimo_que_le_nome\obj\Debug\Algoritimo_que_le_nome.pdb
